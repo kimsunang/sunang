@@ -7,5 +7,6 @@ public class hello {
 		System.err.println("defult");
 		System.out.println("leebit~!");
 		
+		System.out.println("kimsun~!");
 	}
 }	
